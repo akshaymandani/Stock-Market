@@ -58,7 +58,7 @@ export default function IndianIndices() {
   }
 
   return (
-    <div className="w-full overflow-x-auto bg-white text-black p-4">
+    <div className="w-full overflow-x-auto text-black p-4">
       <h1 className="text-2xl font-bold mb-4 text-center">Indian Indices</h1>
       <div className="mb-6">
         <input
