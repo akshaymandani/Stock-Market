@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap'); /* Added semicolon */
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+
+.custom-font {
+  font-family: 'New Amsterdam', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.custom-font1 {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
